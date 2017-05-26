@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 
 from __future__ import print_function
-import os 
-from json import dumps
+import os
 from collections import OrderedDict
 from gmusicapi import Mobileclient
 
 
 class GmusicClient(object):
+    """Implements a client for gmusic."""
     datum = {}
     ordered = []
     pos = 0
@@ -33,6 +33,7 @@ class GmusicClient(object):
         return OrderedDict(sorted(playlists.items(), key=lambda t: t[0]))
 
 class MarkDownRenderer(object):
+    """Renders a list of playlists in markdown format."""
     def __init__(self, playlists):
         self.playlists = playlists
 
