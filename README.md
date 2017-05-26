@@ -13,7 +13,8 @@
 * [Rock & Heavy](#rock--heavy)
 * [Slow Tempo & Trip-Hop](#slow-tempo--trip-hop)
 * [Soul & Funk](#soul--funk)
-# Artilleria Pesada
+# My playlists:
+## Artilleria Pesada
 * Control Machete - Amores Perros - Si Senor
 * Cypress Hill - Los Grandes Éxitos En Español - Siempre Peligroso (feat. Fermin IV Caballero of Control Machete)
 * Blanquito Man - Babel - Music From And Inspired By The Motion Picture - Cumbia Sobre El Rio
@@ -26,7 +27,7 @@
 * Prodigy - The Fat Of The Land - Breathe
 * Prodigy - The Fat Of The Land - Smack My Bitch Up
 * LE PEUPLE DE L'HERBE|JC 001 - Cube - Mission (feat. JC 001)
-# Bicicletta
+## Bicicletta
 * Luis Bacalov - Il Postino - In Bicicletta
 * Spiriti Roots - Raise - Bicicletta
 * Riccardo Cocciante - Sulle Labbra E Nel Pensiero- I Grandi Successi - In bicicletta
@@ -34,7 +35,7 @@
 * Formoso - Cosa Suona Il Mondo - La Mia Bicicletta
 * Frankie hi-nrg mc - Essere Umani (Include I Brani Del Festival Di Sanremo 2014) - Pedala (Festival di Sanremo 2014)
 * Fernando Alba - La Bicicletta - La Bicicletta
-# CYD
+## CYD
 * Fiorenzo Carpi De Resmini - Fiorenzo Carpi, ritratto di un autore - Titoli
 * Kendrick Lamar - To Pimp A Butterfly - Alright
 * Kendrick Lamar - To Pimp A Butterfly - King Kunta
@@ -81,7 +82,7 @@
 * Club Des Belugas - The Art of Electro Swing, Vol. 2 - What Is Jazz (Tape Five Remix)
 * Club Des Belugas - Tanzcafe Arlberg, Vol. 2 - Straight to Memphis
 * Club des Belugas - Fishing for Zebras - Let's Go
-# CYD by night
+## CYD by night
 * Caribou - Swim - Found Out
 * Jamie Anderson - Altered States - Time Is Now (Radio Slave Panorama Garage Mix)
 * Tony Thomas - innerspace/jack off rework - Inner Space (Inner Space)
@@ -108,12 +109,12 @@
 * Boot & Tax - Brace Brace - Brace Brace
 * Club des Belugas - Apricoo Soul - Wildcats Gotta Move (Becker vs. Gärtner Der Lüster Remix)
 * Big Mojo - Cocktail Collection vol.4 (Whiskey Sour Compilation) - As I Feel Myself (Dario Piana Remix)
-# Cosmic Sound
+## Cosmic Sound
 * DJ Rocca - Podalirius - A TV Show (feat. Ghostape)
 * Shit Robot - Losing My Patience - Losing My Patience (The Unabombers Remix)
 * Escort - Escort - All That She Is
 * Andre Crom - Southport Weekender Vol.10 (Mixed By Miguel Migs & Atjazz) - Tell Me
-# Drum & Bass
+## Drum & Bass
 * Mama Marjas - Bless the Ladies (Bonnot Jungle Remix) - Bless the Ladies (Bonnot Jungle Remix)
 * Document One - Run the Block / Small Steps - Run the Block
 * Document One - Run the Block / Small Steps - Small Steps
@@ -132,7 +133,7 @@
 * DJ Marky & S.P.Y - Yellow Shoes/Mystic Sunset - Yellow Shoes
 * Total Science - Piano Funk - Piano Funk (Original Mix) (feat. DāM FunK & Riya)
 * Total Science - So Addicted - So Addicted (Original Mix) (feat. Grimm)
-# GOA
+## GOA
 * Hallucinogen - The Lone Deranger - Demention
 * Astrix - Artcore - Poison
 * Ianuaria - Spirit Voices (Compiled by Gata Freak & Daksinamurti) - The Theory of Elements
@@ -150,7 +151,7 @@
 * Interactive Noise - My Mum's TV EP - Synthetik Pleasure (Day Din & Kronfeld Remix)
 * Ace Ventura - Pure Essence - Baby Boom (Sunstryk Remix)
 * U-Recken - A Light At The End Of The World - A Light At The End Of The World (Original Mix)
-# Hip Hop/Rap
+## Hip Hop/Rap
 * Ice Cube - The Essentials - Ghetto Vet (2007 Digital Remaster)
 * Ice Cube - Chill Out - Today Was a Good Day
 * Hydro - 2 Real 4 Radio - Thank You (2 Eminem & Tupac)
@@ -207,7 +208,7 @@
 * Artificial Kid (Danno, Stabbyoboy, Craim) - Numero 47 - Deragliamento Personale
 * The Roots - Phrenology - The Seed (2.0) (feat. Cody Chestnutt)
 * Common - Be - Testify
-# House
+## House
 * Nicolas Jaar - Minimal Curve - Love Teacher
 * Frivolous - Meteorology - Red Tide
 * DJ T. - City Life (feat. Cari Golden) - City Life (feat. Cari Golden) [Maceo Plex Remix]
@@ -229,7 +230,7 @@
 * Satoshi Tomiie - Renaissance 3D - Love In Traffic (3D Private Path)
 * The Future Sound Of London - Renaissance 3D - Papua New Guinea (Satoshi Tomiie Main-Path)
 * Caribou - Swim (Remixes) - Leave House (Motor City Drum Ensemble Remix)
-# Italy
+## Italy
 * Ivano Fossati - La Mia Banda Suona Il Rock - La mia banda suona il rock
 * Giuni Russo - Alghero - Alghero
 * Gianni Togni - Luna - Luna
@@ -307,7 +308,7 @@
 * Afterhours - Hai Paura Del Buio? - Male Di Miele (Remastered)
 * Afterhours - Quello Che Non C'è - Quello Che Non C'è
 * Artificial Kid (Danno, Stabbyoboy, Craim) - Numero 47 - Deragliamento Personale
-# Jazz
+## Jazz
 * Cannonball Adderley - Somethin' Else - Autumn Leaves
 * Cannonball Adderley - Somethin' Else - Love For Sale
 * Cannonball Adderley - Somethin' Else - Somethin' Else
@@ -315,7 +316,7 @@
 * Cannonball Adderley - Somethin' Else - Dancing In The Dark
 * Cannonball Adderley - Somethin' Else - Bangoon (aka Alison's Uncle)
 * Brushy One String - Destiny - Chicken in the Corn
-# Reggae
+## Reggae
 * Gregory Isaacs - I Love Reggae - 75 Legendary Recordings - Rudi
 * Black Uhuru - Sinsemilla - Sinsemilla
 * Culture - Reggae Anthology: Natty Dread Taking Over - See Them A Come
@@ -439,7 +440,7 @@
 * Stephen Marley - Mind Control - Fed Up (Main)
 * Waldeck - Ballroom Stories - Our Day Will Come
 * Burning Spear - Marcus Garvey/Garvey's Ghost - Marcus Garvey
-# Rock & Heavy
+## Rock & Heavy
 * Soundgarden - Superunknown - Spoonman
 * Marilyn Manson - Lest We Forget (The Best Of) (International Version Explicit) - The Dope Show
 * Jefferson Airplane - Surrealistic Pillow - Somebody to Love
@@ -486,7 +487,7 @@
 * Billy Idol - Greatest Hits - L.A. Woman (Single Edit) (2001 Digital Remaster)
 * Elton John - Don't Shoot Me I'm Only The Piano Player (Newly Remastered) - Crocodile Rock
 * Mumford & Sons - Babel - I Will Wait
-# Slow Tempo & Trip-Hop
+## Slow Tempo & Trip-Hop
 * Nicolas Jaar - Time for Us - Mi Mujer
 * DJ Vadim - Sound Catcher - Milwaukee
 * Alex Reece - 15 Years of Metalheadz (Remastered Full-Length Versions) - Pulp Fiction
@@ -570,7 +571,7 @@
 * Barry Vorzon - The Warriors Original Motion Picture Soundtrack - Theme From "The Warriors" (From "The Warriors" Soundtrack)
 * The Roots - Phrenology - The Seed (2.0) (feat. Cody Chestnutt)
 * The Roots - Things Fall Apart - You Got Me
-# Soul & Funk
+## Soul & Funk
 * Botho Lucas - Disco Music History, Vol. 4 - Zigarillo
 * James Brown - Make It Funky: The Big Payback 1971-1975 - Funky President (People It's Bad)
 * Lyn Collins - James Brown's Funky People - Rock Me Again & Again & Again & Again & Again
