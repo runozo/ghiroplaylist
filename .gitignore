@@ -56,3 +56,4 @@ target/
 # AdHoc
 get_my_playlist.py
 requirements.txt
+update.sh
