@@ -64,8 +64,8 @@ if __name__ == '__main__':
     args = parser.parse_args()
     c = GmusicClient(args.username, args.password, args.phone_id)
     m = MarkDownRenderer(c.get_all_playlists())
+    page = m.render()
+    print(page)
     with open('README.md', mode='w') as readme:
-        page = m.render()
-        print(page)
         readme.write(page)
 
