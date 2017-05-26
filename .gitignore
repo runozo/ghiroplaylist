@@ -54,6 +54,4 @@ docs/_build/
 target/
 
 # AdHoc
-get_my_playlist.py
-requirements.txt
-update.sh
+hidden.sh

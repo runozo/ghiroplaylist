@@ -6,7 +6,7 @@
 * [Cosmic Sound](#cosmic-sound)
 * [Drum & Bass](#drum--bass)
 * [GOA](#goa)
-* [Hip Hop/Rap](#hip-hop/rap)
+* [Hip Hop/Rap](#hip-hoprap)
 * [House](#house)
 * [Italy](#italy)
 * [Jazz](#jazz)
