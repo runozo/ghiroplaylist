@@ -1,5 +1,18 @@
-{:toc}
-
+[Artilleria Pesada](#Artilleria Pesada)
+[Bicicletta](#Bicicletta)
+[CYD](#CYD)
+[CYD by night](#CYD by night)
+[Cosmic Sound](#Cosmic Sound)
+[Drum & Bass](#Drum & Bass)
+[GOA](#GOA)
+[Hip Hop/Rap](#Hip Hop/Rap)
+[House](#House)
+[Italy](#Italy)
+[Jazz](#Jazz)
+[Reggae](#Reggae)
+[Rock & Heavy](#Rock & Heavy)
+[Slow Tempo & Trip-Hop](#Slow Tempo & Trip-Hop)
+[Soul & Funk](#Soul & Funk)
 # Artilleria Pesada
 * Control Machete - Amores Perros - Si Senor
 * Cypress Hill - Los Grandes Éxitos En Español - Siempre Peligroso (feat. Fermin IV Caballero of Control Machete)
