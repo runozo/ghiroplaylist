@@ -9,9 +9,6 @@ from gmusicapi import Mobileclient
 
 class GmusicClient(object):
     """Implements a client for gmusic."""
-    datum = {}
-    ordered = []
-    pos = 0
 
     def __init__(self, user, password, phone_id):
         self.api = Mobileclient()
