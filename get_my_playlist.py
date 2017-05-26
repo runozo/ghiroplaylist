@@ -16,7 +16,7 @@ class GmusicClient(object):
         self.playlists = self.api.get_all_user_playlist_contents()
 
     def get_all_playlists(self):
-        """Gets all the tracks in all teh playlists."""
+        """Gets all the tracks in all the playlists."""
         playlists = {}
         for pl in self.playlists:
             playlists[pl['name']] = []
