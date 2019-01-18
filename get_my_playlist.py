@@ -12,6 +12,7 @@ class GmusicClient(object):
 
     def __init__(self, user, password, phone_id):
         self.api = Mobileclient()
+        print(self.api.get_registered_devices())
         self.api.login(user, password, phone_id)
         self.playlists = self.api.get_all_user_playlist_contents()
 
@@ -60,7 +61,7 @@ if __name__ == '__main__':
     parser.add_argument("password", type=str,
                     help="gmusic password")
     parser.add_argument("phone_id", type=str,
-                    help="your android id")
+                    help="your Android id")
     args = parser.parse_args()
     c = GmusicClient(args.username, args.password, args.phone_id)
     m = MarkDownRenderer(c.get_all_playlists())
